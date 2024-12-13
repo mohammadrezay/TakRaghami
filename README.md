@@ -1,4 +1,4 @@
-# TakRaghami
+# TakRaghami.php
 https://quera.org/problemset/3539?tab=description
 <?php
 $n = (int)readline("Enter a number: ");
